@@ -16,3 +16,6 @@ The code will generate 4 **.dat** files of temperature fields. As there are 4 pr
 * **To run**     : mpirun -n 4 ./laplace_serial.f90
 
 **Course Link:** https://www.psc.edu/resources/training/xsede-hpc-workshop-may-4-5-2021-mpi/
+
+If someone wants to look into the serial version of the code before going into the parallel version go into the following repo.
+https://github.com/aniktarafder/laplace_serial.git
